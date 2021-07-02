@@ -1,0 +1,9 @@
+###
+POST http://localhost:8080/msg
+
+###
+GET http://localhost:8080/api/start
+
+
+###
+GET http://localhost:8080/api/stop
